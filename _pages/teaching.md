@@ -9,13 +9,13 @@ nav_order: 2
 
 ### Education
 
-* Ph.D. in Computer Science, 2021 - now. 
+* Ph.D. in Computer Science, 2021 - now. \\
 Texas A&M University, TX, USA
 
-* M.S. in Structures and Materials, 2013 - 2015.
+* M.S. in Structures and Materials, 2013 - 2015. \\
 National Cheng Kung University, Tainan, Taiwan
 
-* B.S. in Civil Engineering, 2008 - 2013.
+* B.S. in Civil Engineering, 2008 - 2013. \\
 National Central University, Taoyuan, Taiwan
 
 ### Research Experience
@@ -25,8 +25,9 @@ Institute of Information Science, Academia Sinica.
 Topic: Conversational Information Retrieval Systems & Extreme Weather Prediction.
 
 ### Industrial Experience
+
 * **Backend Engineer**, 2019.  
-EZTABLE, Taipei, Taiwan
+EZTABLE, Taipei, Taiwan. \\
 Responsibility: 
-1. Cloud infrastructure design and maintenance.
-2. Utilized CI/CD tools for automatic testing and exporting reports
+    - Cloud infrastructure design and maintenance.
+    - Utilized CI/CD tools for automatic testing and exporting reports
