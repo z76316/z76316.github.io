@@ -8,6 +8,14 @@
 #     - name: Languages
 #       value: English, German
 
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/ynchuang/DiscoverPath">DiscoverPath - A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Researchn</a>
+      year: 2023
+      description: A KG-based retrieval system designed for biomedical research, aiming to assist biomedical researchers in dynamically refining their queries and effectively retrieving articles.
+
 # - title: Education
 #   type: time_table
 #   contents:
