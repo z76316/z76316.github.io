@@ -34,10 +34,17 @@ Email: cychang at tamu dot edu
 
 - Aug. 2023: One paper accepted by CIKM 2023
 
+- Aug. 2023: Give an invited tutorial on Machine Learning in Finance Workshop at KDD 2023 \
+  [[Website]](https://sites.google.com/view/kdd-mlf-2023/schedule?authuser=0)[[Slides]](http://zhimengj0326.github.io/files/Fairness_tutorial_KDD23@MLF.pdf)[[Code]](http://zhimengj0326.github.io/files/fairness_case_study.ipynb)
+
 - Jul. 2023: Two papers accepted by AMIA 2023
+
+- Jun. 2023: Give an invited tutorial on Fairness in Machine Learning for Healthcare at QPRC 2023
+
+- Jun. 2023: Receive NSF Travel Award for Quality and Productivity Research Conference (QPRC) 2023
 
 - Jul. 2022: One paper accepted by ICML 2022
 
 - Feb. 2021: One paper accepted by AAAI 2021
 
-- Oct. 2020: One paper accepted by TREC 2020
+- Oct. 2020: One paper accepted by TREC 2020 (2<sup>nd</sup> Place Award) [[Website]](https://trec.nist.gov/pubs/trec29/trec2020.html)
