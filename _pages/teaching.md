@@ -1,12 +1,32 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /experience/
+title: Experience
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Education
 
-Organize your courses by years, topics, or universities, however you like!
+* Ph.D. in Computer Science, 2021 - now. 
+Texas A&M University, TX, USA
+
+* M.S. in Structures and Materials, 2013 - 2015.
+National Cheng Kung University, Tainan, Taiwan
+
+* B.S. in Civil Engineering, 2008 - 2013.
+National Central University, Taoyuan, Taiwan
+
+### Research Experience
+
+* **Research Assistant**, 2019 - 2020.  
+Institute of Information Science, Academia Sinica.  
+Topic: Conversational Information Retrieval Systems & Extreme Weather Prediction.
+
+### Industrial Experience
+* **Backend Engineer**, 2019.  
+EZTABLE, Taipei, Taiwan
+Responsibility: 
+1. Cloud infrastructure design and maintenance.
+2. Utilized CI/CD tools for automatic testing and exporting reports
