@@ -41,7 +41,7 @@ Email: cychang at tamu dot edu
 
 - Jun. 2023: Give an invited tutorial on Fairness in Machine Learning for Healthcare at QPRC 2023
 
-- Jun. 2023: Receive NSF Travel Award for Quality and Productivity Research Conference (QPRC) 2023
+- Jun. 2023: Receive NSF Travel Award for Quality and Productivity Research Conference (QPRC 2023)
 
 - Jul. 2022: One paper accepted by ICML 2022
 
