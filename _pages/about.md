@@ -32,6 +32,10 @@ Email: cychang at tamu dot edu
 
 ### News
 
+- Oct. 2023: One paper selected as CIKM 2023 Best Demo Paper Honorable Mention
+
+- Oct. 2023: One paper selected as AMIA 2023 Best Student Paper Finalist
+
 - Aug. 2023: One paper accepted by CIKM 2023
 
 - Aug. 2023: Give an invited tutorial on Machine Learning in Finance Workshop at KDD 2023 \
