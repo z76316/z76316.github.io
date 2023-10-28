@@ -32,6 +32,8 @@ Email: cychang at tamu dot edu
 
 ### News
 
+- Oct. 2023: One paper accepted by NeurIPS 2023 AI for Science Workshop
+
 - Oct. 2023: One paper selected as CIKM 2023 Best Demo Paper Honorable Mention
 
 - Oct. 2023: One paper selected as AMIA 2023 Best Student Paper Finalist
