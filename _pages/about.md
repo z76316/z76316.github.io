@@ -27,6 +27,7 @@ My research interests include [Generative Model Applications](https://arxiv.org/
 
 Recently, I've focused on data-centric solutions with generative models and context-length generalization of Large Language Models, making machine learning models more accessible to real-world applications.
 
+I'm looking for Fall 2024 internship opportunities. Please don't hesitate to contact me if you are looking for a fall internship.
 
 Email: cychang at tamu dot edu
 
