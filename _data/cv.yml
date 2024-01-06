@@ -12,7 +12,10 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/ynchuang/DiscoverPath">DiscoverPath - A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Researchn</a>
+    - title: <a href="https://github.com/datamllab/LongLM">LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning</a>
+      year: 2024
+      description: Implementation of the proposed method, SelfExtend, extends the context window of LLMs without fine-tuning.
+    - title: <a href="https://github.com/ynchuang/DiscoverPath">DiscoverPath - A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research</a>
       year: 2023
       description: A KG-based retrieval system designed for biomedical research, aiming to assist biomedical researchers in dynamically refining their queries and effectively retrieving articles.
 
