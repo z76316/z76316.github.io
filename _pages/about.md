@@ -33,6 +33,8 @@ Email: cychang at tamu dot edu
 
 ### News
 
+- Jan. 2024: One prepreint about LLMs’ context window extention is now avaivale at arXiv: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325).
+
 - Oct. 2023: One paper accepted by NeurIPS 2023 AI for Science Workshop
 
 - Oct. 2023: One paper selected as CIKM 2023 Best Demo Paper Honorable Mention
