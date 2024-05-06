@@ -56,8 +56,6 @@ Email: cychang at tamu dot edu
 
 - Jun. 2023: Receive NSF Travel Award for Quality and Productivity Research Conference (QPRC 2023)
 
-- Jul. 2022: One paper accepted by ICML 2022
-
 - Feb. 2021: One paper accepted by AAAI 2021
 
 - Oct. 2020: One paper accepted by TREC 2020 (2<sup>nd</sup> Place Award) [[Website]](https://trec.nist.gov/pubs/trec29/trec2020.html)
