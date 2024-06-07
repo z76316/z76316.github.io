@@ -33,7 +33,7 @@ Email: cychang at tamu dot edu
 
 ### News
 
-- May 2024: Starte my internship as a research intern at Visa Research at Foster City, CA.
+- May 2024: Start my internship as a research intern at Visa Research at Foster City, CA.
 
 - May 2024: Two papers accepted by ICML 2024
 
