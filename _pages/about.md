@@ -33,7 +33,9 @@ Email: cychang at tamu dot edu
 
 ### News
 
-- May 2024: Start my internship as a research intern at Visa Research at Foster City, CA.
+- Jun. 2024: One paper is selected as a Spotlight Paper by ICML 2024: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://openreview.net/forum?id=nkOMLBIiI7) [[GitHub](https://github.com/datamllab/LongLM)]
+
+- May 2024: Start my internship as a research intern at Visa Research at Foster City, CA
 
 - May 2024: Two papers accepted by ICML 2024
 
