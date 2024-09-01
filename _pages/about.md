@@ -27,11 +27,13 @@ My research interests include [Large Language Models](https://arxiv.org/abs/2401
 
 Currently, I focus on **context window extension of Large Language Models** and **data-centric solutions with generative models**, making machine learning models more accessible to real-world applications.
 
-I'm looking for **Fall 2024 internship** opportunities. Please don't hesitate to contact me if you are looking for a fall internship.
+I'll graduate in 2025 Spring, and I'm looking for **Fall 2024 Internship** and **Full-time Applied Scientist or MLE** opportunities. Please don't hesitate to contact me if you are looking for a fall internship.
 
 Email: cychang at tamu dot edu
 
 ### News
+
+- Jul. 2024: One paper accepted by TKDD
 
 - Jun. 2024: One paper is selected as a Spotlight Paper by ICML 2024: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://openreview.net/forum?id=nkOMLBIiI7) [[GitHub](https://github.com/datamllab/LongLM)]
 
@@ -41,7 +43,7 @@ Email: cychang at tamu dot edu
 
 - Mar. 2024: One paper accepted by NAACL 2024
 
-- Jan. 2024: One prepreint about LLMs’ context window extention is now avaivale at arXiv: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325).
+- Jan. 2024: One prepreint about LLMs’ context window extention is now avaivale at arXiv: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325)
 
 - Oct. 2023: One paper accepted by NeurIPS 2023 AI for Science Workshop
 
