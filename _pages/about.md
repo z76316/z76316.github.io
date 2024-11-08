@@ -25,13 +25,15 @@ I’m Chia-Yuan (Scott) Chang, third-year Ph.D. student from the Department of [
 
 My research interests include [Large Language Models](https://arxiv.org/abs/2401.01325), [Generative Model Applications](https://arxiv.org/abs/2310.01508), [Domain Generalization](https://arxiv.org/abs/2307.07181), and [Fair Machine Learning in Healthcare](https://arxiv.org/abs/2303.13790).
 
-Currently, I focus on **context window extension of Large Language Models** and **data-centric solutions with generative models**, making machine learning models more accessible to real-world applications.
+Currently, I focus on **linearizing and hybrid Large Language Models** and **context window extension of Large Language Models**, making LLMs more accessible to real-world applications.
 
-I'll graduate in 2025 Spring, and I'm looking for **Fall 2024 Internship** and **Full-time Applied Scientist or MLE** opportunities. Please don't hesitate to contact me if you are looking for a fall internship.
+I'll graduate in 2025 Spring, and I'm looking for **Full-time Applied Scientist or MLE** opportunities. Please don't hesitate to reach out if you are looking for a full-time candidate.
 
 Email: cychang at tamu dot edu
 
 ### News
+
+- Nov. 2024: Start my internship as a applied scientist intern at Amazon.com at Palo Alto, CA
 
 - Jul. 2024: One paper accepted by TKDD
 
