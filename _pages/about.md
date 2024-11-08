@@ -33,7 +33,7 @@ Email: cychang at tamu dot edu
 
 ### News
 
-- Nov. 2024: Start my internship as a applied scientist intern at Amazon.com at Palo Alto, CA
+- Nov. 2024: Start my internship as an applied scientist intern at Amazon.com at Palo Alto, CA
 
 - Jul. 2024: One paper accepted by TKDD
 
