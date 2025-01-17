@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Chia-Yuan (Scott) Chang, third-year Ph.D. student from the Department of [Computer Science and Engineering at Texas A&M University](https://www.tamu.edu/), advised by Dr. [Na Zou](https://nzou1.github.io/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). 
 
-My research interests include [Large Language Models](https://arxiv.org/abs/2401.01325), [Generative Model Applications](https://arxiv.org/abs/2310.01508), [Domain Generalization](https://arxiv.org/abs/2307.07181), and [Fair Machine Learning in Healthcare](https://arxiv.org/abs/2303.13790).
+My research interests include [Large Language Models](https://arxiv.org/abs/2401.01325), [RAG](https://arxiv.org/abs/2501.00332), [Generative Model Applications](https://arxiv.org/abs/2310.01508), [Domain Generalization](https://arxiv.org/abs/2307.07181), and [Fair Machine Learning in Healthcare](https://arxiv.org/abs/2303.13790).
 
 Currently, I focus on **linearizing and hybrid Large Language Models** and **context window extension of Large Language Models**, making LLMs more accessible to real-world applications.
 
