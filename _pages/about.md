@@ -21,21 +21,22 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Chia-Yuan (Scott) Chang, final-year Ph.D. student from the Department of [Computer Science and Engineering at Texas A&M University](https://www.tamu.edu/), advised by Dr. [Na Zou](https://nzou1.github.io/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). 
+I’m Chia-Yuan (Scott) Chang, an Applied Scientist on the Amazon Rufus team. Before entering the industry, I was a Ph.D. student in the Department of [Computer Science and Engineering at Texas A&M University](https://www.tamu.edu/), advised by Dr. [Na Zou](https://nzou1.github.io/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html).
 
-My research interests include [Large Language Models](https://arxiv.org/abs/2401.01325), [RAG](https://arxiv.org/abs/2501.00332), [Generative Model Applications](https://arxiv.org/abs/2310.01508), [Domain Generalization](https://arxiv.org/abs/2307.07181), and [Fair Machine Learning in Healthcare](https://arxiv.org/abs/2303.13790).
+My research interests include [Large Language Models](https://openreview.net/forum?id=nkOMLBIiI7), [RAG](https://aclanthology.org/2025.acl-long.131), [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883), [Domain Generalization](https://arxiv.org/abs/2307.07181), and [Fair Machine Learning in Healthcare](https://pmc.ncbi.nlm.nih.gov/articles/PMC10785912).
 
-Currently, I focus on **linearizing and hybrid Large Language Models** and **context window extension of Large Language Models**, making LLMs more accessible to real-world applications.
+Currently, I focus on **LLM pre-training** and **extending their context windows**, making LLMs more grounded for real-world applications.
 
-I'll graduate in 2025 Spring, and I'm looking for **Full-time Applied Scientist or MLE** opportunities. Please don't hesitate to reach out if you are looking for a full-time candidate.
+I’m open to **full-time Research Scientist or MLE** opportunities. Please don’t hesitate to reach out if you are seeking a candidate for these roles.
+
 
 Email: cychang at tamu dot edu
 
 ### News
 
-- May. 2025: One paper accepted by ACL 2025 Main: [MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation](https://arxiv.org/abs/2501.00332)
+- May. 2025: One paper accepted by ACL 2025 Main: [MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation](https://aclanthology.org/2025.acl-long.131)
 
-- May. 2025: One paper accepted by KDD 2025: [CODA: Temporal Domain Generalization via Concept Drift Simulator](https://arxiv.org/abs/2310.01508)
+- May. 2025: One paper accepted by KDD 2025: [CODA: Temporal Domain Generalization via Concept Drift Simulator](https://dl.acm.org/doi/10.1145/3711896.3736883)
 
 - Nov. 2024: Start my internship as an applied scientist intern at Amazon.com at Palo Alto, CA
 
@@ -48,8 +49,6 @@ Email: cychang at tamu dot edu
 - May 2024: Two papers accepted by ICML 2024
 
 - Mar. 2024: One paper accepted by NAACL 2024
-
-- Jan. 2024: One prepreint about LLMs’ context window extention is now avaivale at arXiv: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325)
 
 - Oct. 2023: One paper accepted by NeurIPS 2023 AI for Science Workshop
 
