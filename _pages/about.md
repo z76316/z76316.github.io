@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Chia-Yuan (Scott) Chang, an Applied Scientist on the Amazon Rufus team. Before entering the industry, I was a Ph.D. student in the Department of [Computer Science and Engineering at Texas A&M University](https://www.tamu.edu/), advised by Dr. [Na Zou](https://nzou1.github.io/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html).
+I’m Chia-Yuan (Scott) Chang, an Applied Scientist at Amazon Rufus team. Before entering the industry, I was a Ph.D. student in the Department of [Computer Science and Engineering at Texas A&M University](https://www.tamu.edu/), advised by Dr. [Na Zou](https://nzou1.github.io/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html).
 
 My research interests include [Long-context extension](https://openreview.net/forum?id=nkOMLBIiI7), [RAG](https://aclanthology.org/2025.acl-long.131), and [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883).
 
