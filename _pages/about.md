@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>611 Cowper St</p>
-    <p style="width: 120%; margin: 0 auto;">, Palo Alto, CA 94301</p>
+    <p style="width: 120%; margin: 0 auto;">Palo Alto, CA 94301</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
