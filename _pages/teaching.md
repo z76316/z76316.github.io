@@ -33,8 +33,15 @@ Topic: Conversational Information Retrieval Systems & Extreme Weather Prediction
 
 ### Industrial Experience
 
+* **Applied Scientist**, 2025 - present.
+Amazon, Rufus, CA, USA \\
+Responsibility: 
+    - RoPE-based long-context extension research to further extend the effective context window after pre-training
+    - Sparse attention mechanisms research, implementation, and evaluation
+    - Large-scale LLMs pre-training
+
 * **Applied Scientist Intern**, 2024 - 2025.
-Amazon, CA, USA \\
+Amazon, Rufus, CA, USA \\
 Responsibility: 
     - Research SOTA linearizing and hybrid LLMs
     - Propose and implement a new hybrid LLM architecture

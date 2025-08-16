@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Chia-Yuan (Scott) Chang, an Applied Scientist on the Amazon Rufus team. Before entering the industry, I was a Ph.D. student in the Department of [Computer Science and Engineering at Texas A&M University](https://www.tamu.edu/), advised by Dr. [Na Zou](https://nzou1.github.io/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html).
 
-My research interests include [Large Language Models](https://openreview.net/forum?id=nkOMLBIiI7), [RAG](https://aclanthology.org/2025.acl-long.131), [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883), [Domain Generalization](https://arxiv.org/abs/2307.07181), and [Fair Machine Learning in Healthcare](https://pmc.ncbi.nlm.nih.gov/articles/PMC10785912).
+My research interests include [Long-context extension](https://openreview.net/forum?id=nkOMLBIiI7), [RAG](https://aclanthology.org/2025.acl-long.131), and [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883).
 
-Currently, I focus on **LLM pre-training** and **extending their context windows**, making LLMs more grounded for real-world applications.
+Currently, I focus on **RoPE-base context window extension training** and **sparse attention mechanisms**, making LLMs more grounded for real-world applications.
 
 I’m open to **full-time Research Scientist or MLE** opportunities. Please don’t hesitate to reach out if you are seeking a candidate for these roles.
 
@@ -34,11 +34,13 @@ Email: cychang at tamu dot edu
 
 ### News
 
+- Jun. 2025: Start my full-time job as an applied scientist at Amazon Rufus team at Palo Alto, CA
+
 - May. 2025: One paper accepted by ACL 2025 Main: [MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation](https://aclanthology.org/2025.acl-long.131)
 
 - May. 2025: One paper accepted by KDD 2025: [CODA: Temporal Domain Generalization via Concept Drift Simulator](https://dl.acm.org/doi/10.1145/3711896.3736883)
 
-- Nov. 2024: Start my internship as an applied scientist intern at Amazon.com at Palo Alto, CA
+- Nov. 2024: Start my internship as an applied scientist intern at Amazon Rufus team at Palo Alto, CA
 
 - Jul. 2024: One paper accepted by TKDD
 
