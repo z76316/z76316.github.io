@@ -9,9 +9,8 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Peterson, 430</p>
-    <p>400 Bizzell St</p>
-    <p style="width: 120%; margin: 0 auto;">College Station, TX 77843</p>
+    <p>611 Cowper St</p>
+    <p style="width: 120%; margin: 0 auto;">, Palo Alto, CA 94301</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
