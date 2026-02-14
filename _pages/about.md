@@ -24,9 +24,9 @@ I’m Chia-Yuan (Scott) Chang, an Applied Scientist at Amazon Rufus team. Before
 
 My research interests include [Long-context extension](https://openreview.net/forum?id=nkOMLBIiI7), [RAG](https://aclanthology.org/2025.acl-long.131), and [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883).
 
-Currently, I focus on **RoPE-base context window extension training** and **sparse attention mechanisms**, making LLMs more grounded for real-world applications.
+Currently, I focus on large-scale post-training for reasoning, including multi-rollout SFT with diverse teacher models to RL at scale, based on Slime with SGLang and Megatron for efficient training.
 
-I’m open to **full-time Research Scientist or MLE** opportunities. Please don’t hesitate to reach out if you are seeking a candidate for these roles.
+I’m open to **Research Scientist or Research Engineer** opportunities. Please don’t hesitate to reach out if you are seeking a candidate for these roles.
 
 
 Email: cychang at tamu dot edu
