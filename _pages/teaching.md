@@ -36,9 +36,10 @@ Topic: Conversational Information Retrieval Systems & Extreme Weather Prediction
 * **Applied Scientist**, 2025 - present. \\
 Amazon, Rufus, CA, USA \\
 Responsibility: 
-    - RoPE-based long-context extension research to further extend the effective context window after pre-training
-    - Sparse attention mechanisms research, implementation, and evaluation
-    - Large-scale LLMs pre-training
+    - Built the coding RLVR recipe end-to-end for a ~100B MoE reasoning model — verifiable-problem curation, verifier and reward design, and GSPO training at scale
+    - Diagnosed and fixed reward-integrity failures at large scale (reward-grading starvation, truncation-driven response collapse)
+    - Developed SFT training and data pipelines for large MoE reasoning models
+    - Lead and execute in-house LLM CPT/mid-training and long-context extension recipes
 
 * **Applied Scientist Intern**, 2024 - 2025. \\
 Amazon, Rufus, CA, USA \\

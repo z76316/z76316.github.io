@@ -22,9 +22,9 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Chia-Yuan (Scott) Chang, an Applied Scientist at Amazon Rufus team. Before entering the industry, I was a Ph.D. student in the Department of [Computer Science and Engineering at Texas A&M University](https://www.tamu.edu/), advised by Dr. [Na Zou](https://nzou1.github.io/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html).
 
-My research interests include [Long-context extension](https://openreview.net/forum?id=nkOMLBIiI7), [RAG](https://aclanthology.org/2025.acl-long.131), and [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883).
+Currently, I focus on large-scale LLM post-training for reasoning. I built the coding RLVR recipe end-to-end for a ~100B MoE reasoning model — verifiable-problem curation, verifier and reward design, and GSPO training at scale — and also work on SFT training and data pipelines for large MoE models, mid-training, and long-context extension recipes.
 
-Currently, I focus on large-scale post-training for reasoning, including multi-rollout SFT with diverse teacher models to RL at scale, based on Slime with SGLang and Megatron for efficient training.
+Before and beyond current work, my research interests include [Long-context extension](https://openreview.net/forum?id=nkOMLBIiI7), [RAG](https://aclanthology.org/2025.acl-long.131), and [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883).
 
 I’m open to **Research Scientist or Research Engineer** opportunities. Please don’t hesitate to reach out if you are seeking a candidate for these roles.
 

@@ -12,6 +12,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/slime-n/slime-n">slime<sup>n</sup> - An Open-Source LLM RL Training Framework</a>
+      year: 2026
+      description: Main contributor to an open-source LLM RL training framework, enabling scalable multi-policy and student-teacher post-training workflows.
     - title: <a href="https://github.com/datamllab/LongLM">LLM Maybe LongLM - Self-Extend LLM Context Window Without Tuning</a>
       year: 2024
       description: Implementation of the proposed method, SelfExtend, extends the context window of LLMs without fine-tuning.
