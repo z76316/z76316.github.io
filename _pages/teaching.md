@@ -13,7 +13,7 @@ nav_order: 2
 * **Applied Scientist**, 2025 - present. \\
 Amazon, Rufus, CA, USA \\
 Responsibility: 
-    - Built the coding RLVR recipe end-to-end for a ~100B MoE reasoning model — verifiable-problem curation, verifier and reward design, and GSPO training at scale
+    - Built the full coding RLVR recipe for our ~800B MoE model — verifiable-problem curation, verifier and reward design, and GSPO training at scale
     - Diagnosed and fixed reward-integrity failures at large scale (reward-grading starvation, truncation-driven response collapse)
     - Developed SFT training and data pipelines for large MoE reasoning models
     - Lead and execute in-house LLM CPT/mid-training and long-context extension recipes
