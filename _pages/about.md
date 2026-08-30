@@ -20,13 +20,14 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Chia-Yuan (Scott) Chang, an Applied Scientist at Amazon Rufus team. Before entering the industry, I was a Ph.D. student in the Department of [Computer Science and Engineering at Texas A&M University](https://www.tamu.edu/), advised by Dr. [Na Zou](https://nzou1.github.io/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html).
+I’m Chia-Yuan (Scott) Chang, an Applied Scientist at Amazon Rufus. I am broadly interested in how to efficiently post-train foundation models,
+particularly for RLVR and agentic coding RL for large-scale sparse Mixture-of-Experts (MoE) models.
 
-Currently, I focus on large-scale LLM post-training for reasoning. I built the full coding RLVR recipe on our X00B MoE model — verifiable-problem curation, verifier and reward design, and GSPO training at scale — and also work on SFT training and data pipelines for large MoE models, mid-training, and long-context extension recipes.
+My current work focuses on large-scale LLM post-training, especially reinforcement learning and supervised fine-tuning for sparse MoE models. At Amazon, I built the end-to-end coding RLVR recipe for our 100B–800B MoE models, spanning reward design and agentic coding with verifier in sandbox environments. I've also worked extensively on SFT training and data pipelines, as well as mid-training and long-context extension.
 
-Before and beyond current work, my research interests include [Long-context extension](https://openreview.net/forum?id=nkOMLBIiI7), [RAG](https://aclanthology.org/2025.acl-long.131), and [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883).
+Before and beyond current work, my research interests include [RAG](https://aclanthology.org/2025.acl-long.131), [Long-context extension](https://openreview.net/forum?id=nkOMLBIiI7), and [Generative Model Applications](https://dl.acm.org/doi/10.1145/3711896.3736883).
 
-I’m open to **Research Scientist or Research Engineer** opportunities. Please don’t hesitate to reach out if you are seeking a candidate for these roles.
+I received my Ph.D. in Computer Science from Texas A&M University, advised by Prof. [Na Zou](https://nzou1.github.io/) and Prof. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html).
 
 
 Email: cychang at tamu dot edu
