@@ -34,7 +34,7 @@ Email: cychang at tamu dot edu
 
 ### News
 
-- Aug. 2026: Our blog on how to prevent expert collapse in ultra-sparse MoE (8/768) training is out: [Mitigate Silent Expert Death in Ultra-Sparse MoE ](https://alltoall.notion.site/save-lower-layer-moe-experts-llal), which is a small step towards more sparse MoE models!
+- Aug. 2026: Our blog on how to prevent expert collapse in ultra-sparse MoE (8/768) training is out: [Mitigate Silent Expert Death in Ultra-Sparse MoE](https://alltoall.notion.site/save-lower-layer-moe-experts-llal), which is a small step towards more sparse MoE models!
 
 - Jun. 2025: Start my full-time job as an applied scientist at Amazon Rufus team at Palo Alto, CA
 
