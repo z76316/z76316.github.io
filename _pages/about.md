@@ -34,6 +34,10 @@ Email: cychang at tamu dot edu
 
 ### News
 
+- Sep. 2026: Our technical report sharing an open and reproducible post-training recipe on GLM-4.5-Air-Base is out: [Rufus-Air: An Open LLM Post-Training Recipe](https://arxiv.org/abs/2609.29421), where we reveal our stage-wise training designs and performance gains.
+
+- Sep. 2026: One paper accepted by NeurIPS 2026: [Stepwise Penalization for Length-Efficient Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.00296)
+
 - Aug. 2026: Our blog on how to prevent expert collapse in ultra-sparse MoE (8/768) training is out: [Mitigate Silent Expert Death in Ultra-Sparse MoE](https://alltoall.notion.site/save-lower-layer-moe-experts-llal), which is a small step towards more sparse MoE models!
 
 - Jun. 2025: Start my full-time job as an applied scientist at Amazon Rufus team at Palo Alto, CA
